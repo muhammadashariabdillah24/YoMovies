@@ -1,0 +1,27 @@
+<vector android:height="24dp" android:viewportHeight="36"
+    android:viewportWidth="36" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#010101"
+        android:pathData="M0,0L0,36L36,36L36,0L0,0z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2767"
+        android:pathData="M32,27C16.2505,27 15,24.4475 15,9L32,9C29.2177,3.4836 24.577,4.0004 19,4C15.3822,3.9998 9.4797,2.9179 6.3179,5.0278C2.3533,7.6733 2.29,26.8629 5.6034,30.1065C10.7942,35.1878 28.9088,33.129 32,27z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2565"
+        android:pathData="M29,4L30,5L29,4M30,5L31,6L30,5M31,6L32,7L31,6M15,9L15,11L17,9L15,9z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2161"
+        android:pathData="M17,9L18,10L17,9M15,11L16,12L15,11z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2767"
+        android:pathData="M18,12L18,24L33,24L33,12L18,12z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2565"
+        android:pathData="M22,16L23,17L22,16z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#010101"
+        android:pathData="M23,16L22,17L22,19L23,20L25,20L26,19L26,17L25,16L23,16z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2565"
+        android:pathData="M25,16L26,17L25,16M21,18L22,19L21,18M22,19L23,20L22,19M25,19L26,20L25,19z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2161"
+        android:pathData="M15,24L16,25L15,24z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2565"
+        android:pathData="M15,25L16,26L15,25M16,26L17,27L16,26z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2169"
+        android:pathData="M17,26L18,27L17,26z" android:strokeColor="#00000000"/>
+    <path android:fillColor="#ff2565"
+        android:pathData="M31,29L32,30L31,29M5,30L6,31L5,30M30,30L31,31L30,30M6,31L7,32L6,31M29,31L30,32L29,31z" android:strokeColor="#00000000"/>
+</vector>
